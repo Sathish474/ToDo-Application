@@ -9,7 +9,7 @@ function todoCtrl(){
             "Learn Restful Web Services",
             "Learn Spring"    
     ];
-
+// This change is just for exploring Git Hub
     this.addNewTodo = function(){
         this.Todos.push(this.newTodo);
         this.newTodo = "";
